@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\SocialApp.csproj",
+      "projectUniqueName": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\SocialApp.csproj",
       "projectName": "SocialApp",
-      "projectPath": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\SocialApp.csproj",
+      "projectPath": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\SocialApp.csproj",
       "packagesPath": "C:\\Users\\sloke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\obj\\",
+      "outputPath": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

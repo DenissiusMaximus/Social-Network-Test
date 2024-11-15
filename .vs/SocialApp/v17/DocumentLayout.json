@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sloke\\source\\repos\\SocialApp\\",
+  "WorkspaceRootPath": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|c:\\users\\sloke\\source\\repos\\socialapp\\socialapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|c:\\users\\sloke\\source\\repos\\social-network-test\\socialapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|c:\\users\\sloke\\source\\repos\\socialapp\\socialapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|c:\\users\\sloke\\source\\repos\\social-network-test\\socialapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|c:\\users\\sloke\\source\\repos\\socialapp\\socialapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|c:\\users\\sloke\\source\\repos\\social-network-test\\socialapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{05AB6335-484E-4FF4-BD76-4EED8C4AD0E0}|SocialApp\\SocialApp.csproj|solutionrelative:socialapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,17 +34,17 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SocialApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "SocialApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-14T17:52:15.405Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SocialApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "SocialApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SocialApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\sloke\\source\\repos\\SocialApp\\SocialApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sloke\\source\\repos\\Social-Network-Test\\SocialApp\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "SocialApp\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
